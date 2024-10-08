@@ -1,0 +1,7 @@
+﻿namespace CityDefense
+{
+    class Vector
+    {
+
+    }
+}

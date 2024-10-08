@@ -1,0 +1,354 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Marry-\\Desktop\\\u0428\u0421-github\\CityDefense\\CityDefense\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{314C77AD-37BC-4A69-AFB4-933EE15F5023}|CityDefense.csproj|C:\\Users\\Marry-\\Desktop\\\u0428\u0421-github\\CityDefense\\CityDefense\\mainwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{314C77AD-37BC-4A69-AFB4-933EE15F5023}|CityDefense.csproj|solutionrelative:mainwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{314C77AD-37BC-4A69-AFB4-933EE15F5023}|CityDefense.csproj|C:\\Users\\Marry-\\Desktop\\\u0428\u0421-github\\CityDefense\\CityDefense\\mainwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{314C77AD-37BC-4A69-AFB4-933EE15F5023}|CityDefense.csproj|solutionrelative:mainwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{314C77AD-37BC-4A69-AFB4-933EE15F5023}|CityDefense.csproj|c:\\users\\marry-\\desktop\\\u0448\u0441-github\\citydefense\\citydefense\\mainwindow.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{314C77AD-37BC-4A69-AFB4-933EE15F5023}|CityDefense.csproj|solutionrelative:mainwindow.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{314C77AD-37BC-4A69-AFB4-933EE15F5023}|CityDefense.csproj|C:\\Users\\Marry-\\Desktop\\\u0428\u0421-github\\CityDefense\\CityDefense\\game\\scene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{314C77AD-37BC-4A69-AFB4-933EE15F5023}|CityDefense.csproj|solutionrelative:game\\scene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{314C77AD-37BC-4A69-AFB4-933EE15F5023}|CityDefense.csproj|c:\\users\\marry-\\desktop\\\u0448\u0441-github\\citydefense\\citydefense\\game\\plane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{314C77AD-37BC-4A69-AFB4-933EE15F5023}|CityDefense.csproj|solutionrelative:game\\plane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{314C77AD-37BC-4A69-AFB4-933EE15F5023}|CityDefense.csproj|C:\\Users\\Marry-\\Desktop\\\u0428\u0421-github\\CityDefense\\CityDefense\\game\\house.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{314C77AD-37BC-4A69-AFB4-933EE15F5023}|CityDefense.csproj|solutionrelative:game\\house.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{314C77AD-37BC-4A69-AFB4-933EE15F5023}|CityDefense.csproj|c:\\users\\marry-\\desktop\\\u0448\u0441-github\\citydefense\\citydefense\\game\\effect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{314C77AD-37BC-4A69-AFB4-933EE15F5023}|CityDefense.csproj|solutionrelative:game\\effect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{314C77AD-37BC-4A69-AFB4-933EE15F5023}|CityDefense.csproj|C:\\Users\\Marry-\\Desktop\\\u0428\u0421-github\\CityDefense\\CityDefense\\game\\bomb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{314C77AD-37BC-4A69-AFB4-933EE15F5023}|CityDefense.csproj|solutionrelative:game\\bomb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{314C77AD-37BC-4A69-AFB4-933EE15F5023}|CityDefense.csproj|C:\\Users\\Marry-\\Desktop\\\u0428\u0421-github\\CityDefense\\CityDefense\\engine\\vector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{314C77AD-37BC-4A69-AFB4-933EE15F5023}|CityDefense.csproj|solutionrelative:engine\\vector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{314C77AD-37BC-4A69-AFB4-933EE15F5023}|CityDefense.csproj|C:\\Users\\Marry-\\Desktop\\\u0428\u0421-github\\CityDefense\\CityDefense\\engine\\transform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{314C77AD-37BC-4A69-AFB4-933EE15F5023}|CityDefense.csproj|solutionrelative:engine\\transform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{314C77AD-37BC-4A69-AFB4-933EE15F5023}|CityDefense.csproj|c:\\users\\marry-\\desktop\\\u0448\u0441-github\\citydefense\\citydefense\\engine\\time.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{314C77AD-37BC-4A69-AFB4-933EE15F5023}|CityDefense.csproj|solutionrelative:engine\\time.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{314C77AD-37BC-4A69-AFB4-933EE15F5023}|CityDefense.csproj|c:\\users\\marry-\\desktop\\\u0448\u0441-github\\citydefense\\citydefense\\engine\\sound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{314C77AD-37BC-4A69-AFB4-933EE15F5023}|CityDefense.csproj|solutionrelative:engine\\sound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{314C77AD-37BC-4A69-AFB4-933EE15F5023}|CityDefense.csproj|C:\\Users\\Marry-\\Desktop\\\u0428\u0421-github\\CityDefense\\CityDefense\\engine\\resources.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{314C77AD-37BC-4A69-AFB4-933EE15F5023}|CityDefense.csproj|solutionrelative:engine\\resources.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{314C77AD-37BC-4A69-AFB4-933EE15F5023}|CityDefense.csproj|C:\\Users\\Marry-\\Desktop\\\u0428\u0421-github\\CityDefense\\CityDefense\\engine\\render.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{314C77AD-37BC-4A69-AFB4-933EE15F5023}|CityDefense.csproj|solutionrelative:engine\\render.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{314C77AD-37BC-4A69-AFB4-933EE15F5023}|CityDefense.csproj|c:\\users\\marry-\\desktop\\\u0448\u0441-github\\citydefense\\citydefense\\engine\\iscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{314C77AD-37BC-4A69-AFB4-933EE15F5023}|CityDefense.csproj|solutionrelative:engine\\iscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{314C77AD-37BC-4A69-AFB4-933EE15F5023}|CityDefense.csproj|C:\\Users\\Marry-\\Desktop\\\u0428\u0421-github\\CityDefense\\CityDefense\\engine\\igameobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{314C77AD-37BC-4A69-AFB4-933EE15F5023}|CityDefense.csproj|solutionrelative:engine\\igameobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{314C77AD-37BC-4A69-AFB4-933EE15F5023}|CityDefense.csproj|c:\\users\\marry-\\desktop\\\u0448\u0441-github\\citydefense\\citydefense\\engine\\gameover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{314C77AD-37BC-4A69-AFB4-933EE15F5023}|CityDefense.csproj|solutionrelative:engine\\gameover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{314C77AD-37BC-4A69-AFB4-933EE15F5023}|CityDefense.csproj|C:\\Users\\Marry-\\Desktop\\\u0428\u0421-github\\CityDefense\\CityDefense\\engine\\filesystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{314C77AD-37BC-4A69-AFB4-933EE15F5023}|CityDefense.csproj|solutionrelative:engine\\filesystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{314C77AD-37BC-4A69-AFB4-933EE15F5023}|CityDefense.csproj|C:\\Users\\Marry-\\Desktop\\\u0428\u0421-github\\CityDefense\\CityDefense\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{314C77AD-37BC-4A69-AFB4-933EE15F5023}|CityDefense.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Marry-\\Desktop\\\u0428\u0421-github\\CityDefense\\CityDefense\\MainWindow.Designer.cs",
+              "RelativeDocumentMoniker": "MainWindow.Designer.cs",
+              "ToolTip": "C:\\Users\\Marry-\\Desktop\\\u0428\u0421-github\\CityDefense\\CityDefense\\MainWindow.Designer.cs",
+              "RelativeToolTip": "MainWindow.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T14:26:45.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Scene.cs",
+              "DocumentMoniker": "C:\\Users\\Marry-\\Desktop\\\u0428\u0421-github\\CityDefense\\CityDefense\\Game\\Scene.cs",
+              "RelativeDocumentMoniker": "Game\\Scene.cs",
+              "ToolTip": "C:\\Users\\Marry-\\Desktop\\\u0428\u0421-github\\CityDefense\\CityDefense\\Game\\Scene.cs",
+              "RelativeToolTip": "Game\\Scene.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T12:31:02.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\Marry-\\Desktop\\\u0428\u0421-github\\CityDefense\\CityDefense\\MainWindow.cs",
+              "RelativeDocumentMoniker": "MainWindow.cs",
+              "ToolTip": "C:\\Users\\Marry-\\Desktop\\\u0428\u0421-github\\CityDefense\\CityDefense\\MainWindow.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "MainWindow.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T12:22:02.941Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.cs",
+              "DocumentMoniker": "C:\\Users\\Marry-\\Desktop\\\u0428\u0421-github\\CityDefense\\CityDefense\\MainWindow.cs",
+              "RelativeDocumentMoniker": "MainWindow.cs",
+              "ToolTip": "C:\\Users\\Marry-\\Desktop\\\u0428\u0421-github\\CityDefense\\CityDefense\\MainWindow.cs",
+              "RelativeToolTip": "MainWindow.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T12:25:00.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Plane.cs",
+              "DocumentMoniker": "C:\\Users\\Marry-\\Desktop\\\u0428\u0421-github\\CityDefense\\CityDefense\\Game\\Plane.cs",
+              "RelativeDocumentMoniker": "Game\\Plane.cs",
+              "ToolTip": "C:\\Users\\Marry-\\Desktop\\\u0428\u0421-github\\CityDefense\\CityDefense\\Game\\Plane.cs",
+              "RelativeToolTip": "Game\\Plane.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T14:24:13.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "House.cs",
+              "DocumentMoniker": "C:\\Users\\Marry-\\Desktop\\\u0428\u0421-github\\CityDefense\\CityDefense\\Game\\House.cs",
+              "RelativeDocumentMoniker": "Game\\House.cs",
+              "ToolTip": "C:\\Users\\Marry-\\Desktop\\\u0428\u0421-github\\CityDefense\\CityDefense\\Game\\House.cs",
+              "RelativeToolTip": "Game\\House.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T12:35:19.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Effect.cs",
+              "DocumentMoniker": "C:\\Users\\Marry-\\Desktop\\\u0428\u0421-github\\CityDefense\\CityDefense\\Game\\Effect.cs",
+              "RelativeDocumentMoniker": "Game\\Effect.cs",
+              "ToolTip": "C:\\Users\\Marry-\\Desktop\\\u0428\u0421-github\\CityDefense\\CityDefense\\Game\\Effect.cs",
+              "RelativeToolTip": "Game\\Effect.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T12:42:16.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Bomb.cs",
+              "DocumentMoniker": "C:\\Users\\Marry-\\Desktop\\\u0428\u0421-github\\CityDefense\\CityDefense\\Game\\Bomb.cs",
+              "RelativeDocumentMoniker": "Game\\Bomb.cs",
+              "ToolTip": "C:\\Users\\Marry-\\Desktop\\\u0428\u0421-github\\CityDefense\\CityDefense\\Game\\Bomb.cs",
+              "RelativeToolTip": "Game\\Bomb.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T12:25:11.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Vector.cs",
+              "DocumentMoniker": "C:\\Users\\Marry-\\Desktop\\\u0428\u0421-github\\CityDefense\\CityDefense\\Engine\\Vector.cs",
+              "RelativeDocumentMoniker": "Engine\\Vector.cs",
+              "ToolTip": "C:\\Users\\Marry-\\Desktop\\\u0428\u0421-github\\CityDefense\\CityDefense\\Engine\\Vector.cs",
+              "RelativeToolTip": "Engine\\Vector.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T12:40:32.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Transform.cs",
+              "DocumentMoniker": "C:\\Users\\Marry-\\Desktop\\\u0428\u0421-github\\CityDefense\\CityDefense\\Engine\\Transform.cs",
+              "RelativeDocumentMoniker": "Engine\\Transform.cs",
+              "ToolTip": "C:\\Users\\Marry-\\Desktop\\\u0428\u0421-github\\CityDefense\\CityDefense\\Engine\\Transform.cs",
+              "RelativeToolTip": "Engine\\Transform.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T12:40:11.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Time.cs",
+              "DocumentMoniker": "C:\\Users\\Marry-\\Desktop\\\u0428\u0421-github\\CityDefense\\CityDefense\\Engine\\Time.cs",
+              "RelativeDocumentMoniker": "Engine\\Time.cs",
+              "ToolTip": "C:\\Users\\Marry-\\Desktop\\\u0428\u0421-github\\CityDefense\\CityDefense\\Engine\\Time.cs",
+              "RelativeToolTip": "Engine\\Time.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T14:23:27.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Sound.cs",
+              "DocumentMoniker": "C:\\Users\\Marry-\\Desktop\\\u0428\u0421-github\\CityDefense\\CityDefense\\Engine\\Sound.cs",
+              "RelativeDocumentMoniker": "Engine\\Sound.cs",
+              "ToolTip": "C:\\Users\\Marry-\\Desktop\\\u0428\u0421-github\\CityDefense\\CityDefense\\Engine\\Sound.cs",
+              "RelativeToolTip": "Engine\\Sound.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T14:23:19.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Resources.cs",
+              "DocumentMoniker": "C:\\Users\\Marry-\\Desktop\\\u0428\u0421-github\\CityDefense\\CityDefense\\Engine\\Resources.cs",
+              "RelativeDocumentMoniker": "Engine\\Resources.cs",
+              "ToolTip": "C:\\Users\\Marry-\\Desktop\\\u0428\u0421-github\\CityDefense\\CityDefense\\Engine\\Resources.cs",
+              "RelativeToolTip": "Engine\\Resources.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T12:33:04.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Render.cs",
+              "DocumentMoniker": "C:\\Users\\Marry-\\Desktop\\\u0428\u0421-github\\CityDefense\\CityDefense\\Engine\\Render.cs",
+              "RelativeDocumentMoniker": "Engine\\Render.cs",
+              "ToolTip": "C:\\Users\\Marry-\\Desktop\\\u0428\u0421-github\\CityDefense\\CityDefense\\Engine\\Render.cs",
+              "RelativeToolTip": "Engine\\Render.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T12:29:27.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IScene.cs",
+              "DocumentMoniker": "C:\\Users\\Marry-\\Desktop\\\u0428\u0421-github\\CityDefense\\CityDefense\\Engine\\IScene.cs",
+              "RelativeDocumentMoniker": "Engine\\IScene.cs",
+              "ToolTip": "C:\\Users\\Marry-\\Desktop\\\u0428\u0421-github\\CityDefense\\CityDefense\\Engine\\IScene.cs",
+              "RelativeToolTip": "Engine\\IScene.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T14:22:46.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IGameObject.cs",
+              "DocumentMoniker": "C:\\Users\\Marry-\\Desktop\\\u0428\u0421-github\\CityDefense\\CityDefense\\Engine\\IGameObject.cs",
+              "RelativeDocumentMoniker": "Engine\\IGameObject.cs",
+              "ToolTip": "C:\\Users\\Marry-\\Desktop\\\u0428\u0421-github\\CityDefense\\CityDefense\\Engine\\IGameObject.cs",
+              "RelativeToolTip": "Engine\\IGameObject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T12:39:38.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "GameOver.cs",
+              "DocumentMoniker": "C:\\Users\\Marry-\\Desktop\\\u0428\u0421-github\\CityDefense\\CityDefense\\Engine\\GameOver.cs",
+              "RelativeDocumentMoniker": "Engine\\GameOver.cs",
+              "ToolTip": "C:\\Users\\Marry-\\Desktop\\\u0428\u0421-github\\CityDefense\\CityDefense\\Engine\\GameOver.cs",
+              "RelativeToolTip": "Engine\\GameOver.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T14:22:32.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FileSystem.cs",
+              "DocumentMoniker": "C:\\Users\\Marry-\\Desktop\\\u0428\u0421-github\\CityDefense\\CityDefense\\Engine\\FileSystem.cs",
+              "RelativeDocumentMoniker": "Engine\\FileSystem.cs",
+              "ToolTip": "C:\\Users\\Marry-\\Desktop\\\u0428\u0421-github\\CityDefense\\CityDefense\\Engine\\FileSystem.cs",
+              "RelativeToolTip": "Engine\\FileSystem.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T12:21:48.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Marry-\\Desktop\\\u0428\u0421-github\\CityDefense\\CityDefense\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Marry-\\Desktop\\\u0428\u0421-github\\CityDefense\\CityDefense\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T12:19:26.819Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
