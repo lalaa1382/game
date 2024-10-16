@@ -19,14 +19,22 @@ namespace CityDefense
         {
             InitializeComponent();            
             
+            Render.SetResolution(renderBox.Width, renderBox.Height);
+            Render.SetScene(scene = new Scene());
+            
+            Time.SetInterval(Frame.Interval);
+            Frame.Tick += new System.EventHandler(Time.Frame_Tick);
         }
 
         private void Frame_Tick(object sender, EventArgs e)
         {
+            renderBox.BackgroundImage = Render.DrawFrame();
+            Frame.Enabled = !GameOver.isGameOver;
         }
 
         private void renderBox_MouseDown(object sender, MouseEventArgs e)
         {
+            scene.BreakBomb(e.X, e.Y);
         }
 
         private void renderBox_Click(object sender, EventArgs e)
